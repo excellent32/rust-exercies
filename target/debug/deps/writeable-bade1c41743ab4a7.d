@@ -1,0 +1,11 @@
+/Users/peiweili/myappwork/rust-pro/hello-world/target/debug/deps/libwriteable-bade1c41743ab4a7.rmeta: /Users/peiweili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/lib.rs /Users/peiweili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/cmp.rs /Users/peiweili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/impls.rs /Users/peiweili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/ops.rs /Users/peiweili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/parts_write_adapter.rs /Users/peiweili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/testing.rs /Users/peiweili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/try_writeable.rs
+
+/Users/peiweili/myappwork/rust-pro/hello-world/target/debug/deps/writeable-bade1c41743ab4a7.d: /Users/peiweili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/lib.rs /Users/peiweili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/cmp.rs /Users/peiweili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/impls.rs /Users/peiweili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/ops.rs /Users/peiweili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/parts_write_adapter.rs /Users/peiweili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/testing.rs /Users/peiweili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/try_writeable.rs
+
+/Users/peiweili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/lib.rs:
+/Users/peiweili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/cmp.rs:
+/Users/peiweili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/impls.rs:
+/Users/peiweili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/ops.rs:
+/Users/peiweili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/parts_write_adapter.rs:
+/Users/peiweili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/testing.rs:
+/Users/peiweili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/try_writeable.rs:

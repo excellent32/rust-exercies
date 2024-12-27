@@ -1,0 +1,1 @@
+/Users/peiweili/myappwork/rust-pro/hello-world/exercises/r3_literval_variables/target/debug/r3_literval_variables: /Users/peiweili/myappwork/rust-pro/hello-world/exercises/r3_literval_variables/src/main.rs
